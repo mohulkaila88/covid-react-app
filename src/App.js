@@ -2,7 +2,6 @@ import React, {useEffect, useState} from 'react';
 import Card from 'react-bootstrap/Card'
 import CardDeck from 'react-bootstrap/CardDeck'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import CountUp from 'react-countup'
 import Columns from 'react-columns'
 import Form from 'react-bootstrap/Form'
 import axios from 'axios'
